@@ -5,10 +5,10 @@ I am Frederic, a Full-Stack-Developer from Germany!
 Nearly all of my projects are based on 🔥 LARAVEL
 
 Some examples:
-- MovieTracker
-- Gamelogs | www.gamelogs.de
-- LoLCounter | www.lolcounter.fragxz.de
-
+- [MovieTracker](https://github.com/fragxz/MovieTracker) | Laravel 8.83.5
+- [Gamelogs](https://www.gamelogs.de)
+- [LoLCounter](lolcounter.fragxz.de)
+- and many more secretly developed projects 
 
 I also made some fun stuff with 🐍 Python - like the miniOCR or Quiz Solver, which can solve Quizzes in Real-Time!
 
