@@ -6,6 +6,7 @@ Nearly all of my projects are based on 🔥 LARAVEL
 
 **Examples:**
 - [TwitchStreamManager](https://github.com/fragxz/Twitch-Stream-Manager-Info)
+- [Twitch Stream Status Tool](https://github.com/fragxz/TwitchStreamStatusCheck) - integrated with only 3 lines of code!
 - Youtube Video Manager
 - [MovieTracker](https://github.com/fragxz/MovieTracker)
 - [Gamelogs](https://www.gamelogs.de)
