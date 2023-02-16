@@ -5,9 +5,9 @@ I am Frederic, a Full-Stack-Developer from Germany!
 Nearly all of my projects are based on 🔥 LARAVEL
 
 **Examples:**
-- [TwitchStreamManager](https://github.com/fragxz/Twitch-Stream-Manager-Info)
+- [Twitch Stream Manager](https://github.com/fragxz/Twitch-Stream-Manager-Info)
 - [Twitch Stream Status Tool](https://github.com/fragxz/TwitchStreamStatusCheck) - integrated with only 3 lines of code!
-- Youtube Video Manager
+- Youtube Video Manager - coming soon!
 - [MovieTracker](https://github.com/fragxz/MovieTracker)
 - [Gamelogs](https://www.gamelogs.de)
 - [LoLCounter](https://lolcounter.fragxz.de)
