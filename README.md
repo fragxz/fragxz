@@ -5,7 +5,7 @@ I am Frederic, a Full-Stack-Developer from Germany!
 Nearly all of my projects are based on 🔥 LARAVEL
 
 Some examples:
-- [Twitch Stream Manager][https://github.com/fragxz/MovieTracker](https://github.com/fragxz/info_tsm)
+- [TwitchStreamManager][https://github.com/fragxz/MovieTracker](https://github.com/fragxz/info_tsm)
 - [MovieTracker](https://github.com/fragxz/MovieTracker) | Laravel 8.83.5
 - [Gamelogs](https://www.gamelogs.de)
 - [LoLCounter](https://lolcounter.fragxz.de)
