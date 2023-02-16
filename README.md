@@ -7,7 +7,7 @@ Nearly all of my projects are based on 🔥 LARAVEL
 Some examples:
 - [TwitchStreamManager](https://github.com/fragxz/info_tsm)
 - Youtube Video Manager
-- [MovieTracker](https://github.com/fragxz/MovieTracker) | Laravel 8.83.5
+- [MovieTracker](https://github.com/fragxz/MovieTracker)
 - [Gamelogs](https://www.gamelogs.de)
 - [LoLCounter](https://lolcounter.fragxz.de)
 - and many more secretly developed projects 
