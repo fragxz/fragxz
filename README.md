@@ -15,3 +15,4 @@ Nearly all of my projects are based on 🔥 LARAVEL
 I also made some fun stuff with 🐍 Python - like the miniOCR or Quiz Solver, which can solve Quizzes in Real-Time!
 - [QuizSolver](https://github.com/fragxz/QuizSolver)
 - [miniOCR](https://github.com/fragxz/miniOCR)
+- various workflow optimizing scripts
